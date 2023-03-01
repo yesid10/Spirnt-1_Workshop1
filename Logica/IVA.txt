@@ -1,0 +1,30 @@
+Algoritmo IVA
+	Definir pres1, pres2, pres3, pres4, pres5 Como Entero
+	
+	Escribir 'Ingrese el precio 1: ';
+	Leer pres1;
+	
+	Escribir 'Ingrese el precio 2: ';
+	Leer pres2;
+	
+	Escribir 'Ingrese el precio 3: ';
+	Leer pres3;
+	
+	Escribir 'Ingrese el precio 4: ';
+	Leer pres4;
+	
+	Escribir 'Ingrese el precio 5: ';
+	Leer pres5;
+	
+	subtotal = pres1+pres2+pres3+pres4+pres5;
+	porcen = subtotal*0.19;
+	total = porcen+subtotal;
+	
+	Escribir 'El subtotal es: ', subtotal;
+	Escribir 'El IVA es: ', porcen;
+	Escribir 'El total es: ', total;
+	
+	
+	
+	
+FinAlgoritmo

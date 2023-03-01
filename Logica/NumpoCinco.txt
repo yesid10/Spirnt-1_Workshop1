@@ -1,0 +1,12 @@
+Algoritmo NumporCinco
+	
+	Definir num, res Como Real
+	
+	Escribir 'Ingrese un numero';
+	Leer num;
+	
+	res = num*5;
+	
+	Escribir num, ' * 5 = ', res;  
+	
+FinAlgoritmo

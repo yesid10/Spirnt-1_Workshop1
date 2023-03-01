@@ -1,0 +1,12 @@
+Algoritmo Edad_persona
+	
+	Definir fechanaci, edad Como Entero
+	
+	Escribir 'Ingrese la fecha de nacimiento';
+	Leer fechanaci;
+	
+	edad = 2023-fechanaci;
+	
+	Escribir 'Su edad es: ', edad;
+	
+FinAlgoritmo

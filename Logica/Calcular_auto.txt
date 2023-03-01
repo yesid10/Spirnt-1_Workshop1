@@ -1,0 +1,17 @@
+Algoritmo Calcular_auto
+	Definir marca,modelo como caracter;
+	
+	Escribir 'Ingrese la marca del auto:';
+	Leer marca;
+	Escribir 'Ingrese el modelo del auto';
+	Leer modelo;
+	
+	Escribir 'El modelo del auto es: ', modelo, ' y la marca del auto es: ' , marca ;
+	
+	
+FinAlgoritmo
+
+
+//base de triand
+//ingresar num y mlti 5 
+// 

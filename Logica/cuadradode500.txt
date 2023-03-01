@@ -1,0 +1,8 @@
+Algoritmo Suma4numeros
+	Definir num Como Entero
+	
+	num= 500*500;
+	
+	
+	Escribir 'El cudrado de 500 es: ', num;
+FinAlgoritmo

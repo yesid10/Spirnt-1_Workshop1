@@ -1,0 +1,10 @@
+Algoritmo Suma4numeros
+	Definir num, porcen, res Como Entero
+	Escribir 'Ingresa la cantidad: ';
+	Leer num;
+	Escribir 'Que porcetaje esea saber: ';
+	Leer porcen;
+	
+	res = (num*porcen)/100;
+	Escribir 'El ', porcen, '% ', ' de ', num, ' es ', res;
+FinAlgoritmo
